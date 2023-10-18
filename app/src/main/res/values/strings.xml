@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">miAgenda</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tvRegistro">REGISTRA TU ACTIVIDAD</string>
+    <string name="btnSubmit">GUARDAR</string>
+    <string name="tvListado">LISTA DE ACTIVIDADES</string>
+    <string name="tvEditar">VER Y/O  EDITAR REGISTRO</string>
+    <string name="btnGuardarEdicion">GUARDAR REGISTRO</string>
+    <string name="textView1">TITULO</string>
+    <string name="textView2">DESCRIPCION</string>
+</resources>
